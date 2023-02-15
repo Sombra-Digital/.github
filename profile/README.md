@@ -1,4 +1,4 @@
-# Welcome to the Sombra Group👋
+# Welcome to the Sombra👋
 
 ## About us
 
