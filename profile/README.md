@@ -15,11 +15,11 @@ We are interested in Open Source ⌨️
 
 Follow us on
 
-[<img align="left" alt="LinkedIn" width="26px" src="./social/linkedin.svg" />][LinkedIn]
-[<img align="left" alt="Facebook" width="26px" src="./social/facebook.svg" />][Facebook]
-[<img align="left" alt="Instagram" width="26px" src="./social/instagram.png" />][Instagram]
-[<img align="left" alt="Twitter" width="26px" src="./social/twitter.svg" />][Twitter]
-[<img align="left" alt="Telegram" width="26px" src="./social/telegram.svg" />][Telegram]
+[<img align="left" alt="LinkedIn" width="26px" src="./profile/social/linkedin.svg" />][LinkedIn]
+[<img align="left" alt="Facebook" width="26px" src="./profile/social/facebook.svg" />][Facebook]
+[<img align="left" alt="Instagram" width="26px" src="./profile/social/instagram.png" />][Instagram]
+[<img align="left" alt="Twitter" width="26px" src="./profile/social/twitter.svg" />][Twitter]
+[<img align="left" alt="Telegram" width="26px" src="./profile/social/telegram.svg" />][Telegram]
 or write an [Email](mailto:contact@sombra.uz) ✉️
 
 
