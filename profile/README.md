@@ -9,7 +9,7 @@
 ✅ Our goal is to create unique Internet projects that bring results and develop the business of our clients.
 
 ## Divisions
-[SYNC Lab.](https://github.com/sync-lab) and [Astrum Lab.](https://github.com/astrum-lab)
+[SYNC Lab.](https://github.com/sync-uz) and [Astrum Lab.](https://github.com/astrum-lab)
 
 ## Interested
 We are interested in Open Source ⌨️
