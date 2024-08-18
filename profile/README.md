@@ -26,9 +26,9 @@ Follow us on
 or write an [Email](mailto:contact@sombra.uz) ✉️
 
 
-[LinkedIn]: https://www.linkedin.com/company/sombra-llc
-[Facebook]: https://www.facebook.com/sombra.uz
-[Instagram]: https://www.instagram.com/sombra.uz/
-[Twitter]: https://twitter.com/sombra_uz
-[Telegram]: https://t.me/sombra_uz
-[Mail]: mailto:contact@sombra.uz
+[LinkedIn]: https://www.linkedin.com/company/sombra-digital
+[Facebook]: https://www.facebook.com/digital.sombra
+[Instagram]: https://www.instagram.com/digital.sombra/
+[Twitter]: https://twitter.com/sombra__digital
+[Telegram]: https://t.me/sombra_digital
+[Mail]: mailto:customer@sombra.digital
