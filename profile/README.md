@@ -9,7 +9,7 @@
 ✅ Our goal is to create unique Internet projects that bring results and develop the business of our clients.
 
 ## Divisions
-[SYNC Lab.](https://github.com/sync-uz), [Astrum Lab.](https://github.com/astrum-lab) and  [DoubleH](https://github.com/DoubleH-team)
+[SYNC Lab.](https://github.com/sync-uz), [Astrum Lab.](https://github.com/astrum-lab) and  [Entrega](https://github.com/Entrega-Soft)
 
 ## Interested
 We are interested in Open Source ⌨️
